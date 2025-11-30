@@ -38,7 +38,7 @@ A modern, full-featured e-commerce platform for Deco-Art Furniture, a renowned f
 ### 1. Clone the repository
 
 ```bash
-[git clone https://github.com/alfredalpino/Deco-art.git](https://github.com/alfredalpino/Deco-art)
+git clone https://github.com/alfredalpino/Deco-art.git
 cd Deco-art
 ```
 
